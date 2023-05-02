@@ -1,3 +1,3 @@
-const numero = 1;
-// const minhaVar = "oi";
-console.log(minhaVar);
+const numero = 0;
+//const minhaVar = 'OI'
+console.log(minhaVar)
